@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Composable</string>
+    <string name="first_text1">上面左面</string>
+    <string name="first_text2">上面的显示文字</string>
+    <string name="second_text1">上面右面</string>
+    <string name="third_text1">下面左面</string>
+    <string name="fourth_text1">下面右面</string>
+    <string name="third_text2">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="second_text2">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="fourth_text2">A layout composable that places its children in a horizontal sequence.</string>
+</resources>
